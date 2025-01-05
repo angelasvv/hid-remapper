@@ -530,23 +530,24 @@ const usages = {
     6: {
         "0x00090001": { 'name': 'Menu', 'class': 'mouse' },
         "0x00090002": { 'name': 'Fit', 'class': 'mouse' },
-        "0x00090003": { 'name': '[T]', 'class': 'mouse' },
-        "0x00090004": { 'name': 'Button 4', 'class': 'mouse' },
-        "0x00090005": { 'name': '[R]', 'class': 'mouse' },
-        "0x00090006": { 'name': '[F]', 'class': 'mouse' },
-        "0x00090007": { 'name': 'Button 7', 'class': 'mouse' },
-        "0x00090008": { 'name': 'Button 8', 'class': 'mouse' },
-        "0x00090009": { 'name': 'Button 9', 'class': 'mouse' },
-        "0x0009000c": { 'name': 'Button 12', 'class': 'mouse' },
-        "0x0009000d": { 'name': 'Button 1', 'class': 'mouse' },
-        "0x0009000e": { 'name': 'Button 2', 'class': 'mouse' },
-        "0x0009000f": { 'name': 'Button 3', 'class': 'mouse' },
-        "0x00090010": { 'name': 'Button 4', 'class': 'mouse' },
+        "0x00090003": { 'name': 'TOP', 'class': 'mouse' },
+
+        "0x00090005": { 'name': 'RIGHT', 'class': 'mouse' },
+        "0x00090006": { 'name': 'FRONT', 'class': 'mouse' },
+
+        "0x00090009": { 'name': 'ROLL', 'class': 'mouse' },
+
+        "0x0009000d": { 'name': 'V3DK_1', 'class': 'mouse' },
+        "0x0009000e": { 'name': 'V3DK_2', 'class': 'mouse' },
+        "0x0009000f": { 'name': 'V3DK_3', 'class': 'mouse' },
+        "0x00090010": { 'name': 'V3DK_4', 'class': 'mouse' },
+
         "0x00090017": { 'name': 'ESC', 'class': 'mouse' },
         "0x00090018": { 'name': 'ALT', 'class': 'mouse' },
         "0x00090019": { 'name': 'SHIFT', 'class': 'mouse' },
         "0x0009001a": { 'name': 'CTRL', 'class': 'mouse' },
-        "0x0009001b": { 'name': 'LOCK', 'class': 'mouse' },
+        "0x0009001b": { 'name': 'ROTATE', 'class': 'mouse' },
+
         "0x00010030": { 'name': 'X_Pan L/R', 'class': 'mouse' },
         "0x00010031": { 'name': 'Y_Zoom', 'class': 'mouse' },
         "0x00010032": { 'name': 'Z_Pan U/D', 'class': 'mouse' },
